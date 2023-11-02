@@ -375,3 +375,4 @@ The following table lists the default severity levels for each diagnostic rule w
 | reportUninitializedInstanceVariable       | "none"     | "none"     | "none"     |
 | reportUnnecessaryTypeIgnoreComment        | "none"     | "none"     | "none"     |
 | reportUnusedCallResult                    | "none"     | "none"     | "none"     |
+| report pyttsx3                            | "none"     | "none"     | "none"     |
